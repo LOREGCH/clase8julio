@@ -9,7 +9,7 @@ public class App {
     public static void main(String[] args) {
         
         //System.out.println("Hello World!");
-        //System.out.println(NS("12/07/1980"));
+        System.out.println(NS("12/07/1980"));
 
         /** double precioUnidad, cantidad, iva, precioSinIva, totalIva;
         Scanner sc = new Scanner(System.in);
